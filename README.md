@@ -21,8 +21,7 @@ Feel free to suggest improvements — we’ll enhance it step by step together �
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/Community-Music-Player.git
-   cd Community-Music-Player
+   https://github.com/Hamid-progs/Community_Music-Player.git
 Install dependencies
 
 
